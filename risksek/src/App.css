@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.filter {
+  display: flex;
+  justify-content:space-around;
+  width: 50%;
+  margin-top: 2%;
+}
+
+.head {
+  background-color: rgb(190, 189, 189);
+}
