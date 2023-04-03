@@ -1,3 +1,4 @@
+
 const Filter = () => {
     return(<div className="filter" >
     <div>All</div>
@@ -7,4 +8,5 @@ const Filter = () => {
     <div>On track</div>
     </div>)
 }
+
 export default Filter;
